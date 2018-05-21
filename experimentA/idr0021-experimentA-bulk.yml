@@ -5,7 +5,7 @@ exclude: "clientpath"
 checksum_algorithm: "File-Size-64"
 logprefix: "logs/"
 output: "yaml"
-path: "idr0021-experimentA-filePaths.tsv"
+path: "idr0021-subset.tsv"
 columns:
     - target
     - path
