@@ -5,7 +5,7 @@ transfer: "ln_s"
 checksum_algorithm: "File-Size-64"
 logprefix: "logs/"
 output: "yaml"
-path: "idr0021-subset.tsv"
+path: "idr0021.tsv"
 columns:
     - target
     - path
